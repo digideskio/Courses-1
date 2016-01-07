@@ -4,7 +4,7 @@
 ######Mirza Ibrahimovic
 ######Last updated: 7th Jan 2016
 
-###**2015** (20)
+###**2015** (24)
 
 1. Introduction to Computer Science and Programming Using Python (6.00.1x), MITx, edX
 2. Introduction to Computational Thinking and Data Science (6.00.2x), MITx, edX
@@ -15,7 +15,6 @@
 7. Algorithmic Thinking 1, Rice University, Coursera
 8. Algorithmic Thinking 2, Rice University, Coursera
 9. Fundamentals of Computing, Rice University Capstone, Coursera
-* Fundmantals of Computing Specialization, Rice University, Coursera
 10. Learning How To Learn, UC San Diego, Coursera
 11. GeometryX, SchoolYourself, edX
 12. AlgebraX, SchoolYourself, edX
@@ -26,6 +25,17 @@
 17. Introduction to Java Programming 1, The Hong Kong University of Science and Technology, edX
 18. Introudction to Big Data with Apache Spark, BerkeleyX, edX
 19. Scalable Machine Learning, BerkeleyX, edX
-* XSeries: Big data, BerkeleyX, edX
+20. Programming Mobile Applications for Android 1, University of Maryland, Coursera
+21. Using Databases with Python, University of Michigian, Coursera
+22. Using Python to Access Web Data, University of Michigian, Coursera
+23. Introduction to Real Time Systems, IEEEx, edX
+24. Responsive Web Basics, University of London, Coursera
 
-###**2016** (3)
+Other:
+* XSeries: Big data, BerkeleyX, edX
+* Fundmantals of Computing Specialization, Rice University, Coursera
+
+###**2016** (1)
+
+1. Responsive Web Design, University of London, Coursera
+
