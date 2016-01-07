@@ -1,7 +1,8 @@
 # Courses
 ##Course and MOOC certificates
 
-#####Last updated: 7th Jan 2016
+######Mirza Ibrahimovic
+######Last updated: 7th Jan 2016
 
 ###**2015** (20)
 
@@ -14,4 +15,4 @@
 7. Algorithmic Thinking 1, Rice University, Coursera
 8. Algorithmic Thinking 2, Rice University, Coursera
 
-###**2016**
+###**2016** (3)
