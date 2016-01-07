@@ -33,7 +33,7 @@
 
 Other:
 * XSeries: Big data, BerkeleyX, edX
-* Fundmantals of Computing Specialization, Rice University, Coursera
+* Fundamentals of Computing Specialization, Rice University, Coursera
 
 ###**2016** (1)
 
