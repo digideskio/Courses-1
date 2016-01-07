@@ -14,5 +14,18 @@
 6. Principles of Computing 2, Rice University, Coursera
 7. Algorithmic Thinking 1, Rice University, Coursera
 8. Algorithmic Thinking 2, Rice University, Coursera
+9. Fundamentals of Computing, Rice University Capstone, Coursera
+* Fundmantals of Computing Specialization, Rice University, Coursera
+10. Learning How To Learn, UC San Diego, Coursera
+11. GeometryX, SchoolYourself, edX
+12. AlgebraX, SchoolYourself, edX
+13. Introduction to Bootstrap, MicrosoftX, edX
+14. HTML, CSS and Javascript, The Hong Kong University of Science and Technology, Coursera
+15. Introduction to Mobile Application Development using Android, The Hong Kong University of Science and Technology, edX
+16. Introduction to Mathematical Thinking, Stanford, Coursera
+17. Introduction to Java Programming 1, The Hong Kong University of Science and Technology, edX
+18. Introudction to Big Data with Apache Spark, BerkeleyX, edX
+19. Scalable Machine Learning, BerkeleyX, edX
+* XSeries: Big data, BerkeleyX, edX
 
 ###**2016** (3)
