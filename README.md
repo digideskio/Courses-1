@@ -14,7 +14,7 @@
 6. Principles of Computing 2, Rice University, Coursera
 7. Algorithmic Thinking 1, Rice University, Coursera
 8. Algorithmic Thinking 2, Rice University, Coursera
-9. Fundamentals of Computing, Rice University Capstone, Coursera
+9. Fundamentals of Computing Capstone, Rice University, Coursera
 10. Learning How To Learn, UC San Diego, Coursera
 11. GeometryX, SchoolYourself, edX
 12. AlgebraX, SchoolYourself, edX
