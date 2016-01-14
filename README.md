@@ -2,7 +2,7 @@
 ##Course and MOOC certificates
 
 ######Mirza Ibrahimovic
-######Last updated: 10th Jan 2016
+######Last updated: 14th Jan 2016
 
 ###**2015** (24)
 
@@ -39,4 +39,5 @@ Other:
 
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
+3. Introduction to jQuery, MicrosoftX, edX
 
