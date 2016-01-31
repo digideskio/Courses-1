@@ -40,4 +40,5 @@ Other:
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
 3. Introduction to jQuery, MicrosoftX, edX
+4. Front-End Web UI Frameworks and Tools, Hong Kong University, Coursera
 
