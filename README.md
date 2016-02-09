@@ -41,4 +41,5 @@ Other:
 2. Pre-University Calculus, DelftX, edX
 3. Introduction to jQuery, MicrosoftX, edX
 4. Front-End Web UI Frameworks and Tools, Hong Kong University, Coursera
+5. Introduction to R Programming, MicrosoftX, edX
 
