@@ -35,11 +35,11 @@ Other:
 * XSeries: Big data, BerkeleyX, edX
 * Fundamentals of Computing Specialization, Rice University, Coursera
 
-###**2016** (5)
+###**2016** (6)
 
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
 3. Introduction to jQuery, MicrosoftX, edX
 4. Front-End Web UI Frameworks and Tools, Hong Kong University, Coursera
 5. Introduction to R Programming, MicrosoftX, edX
-
+6. Front-end Certifiacte, FreeCodeCamp
