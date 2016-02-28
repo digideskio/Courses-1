@@ -42,4 +42,4 @@ Other:
 3. Introduction to jQuery, MicrosoftX, edX
 4. Front-End Web UI Frameworks and Tools, Hong Kong University, Coursera
 5. Introduction to R Programming, MicrosoftX, edX
-6. Front-end Certifiacte, FreeCodeCamp
+6. Front-end Certificate, FreeCodeCamp
