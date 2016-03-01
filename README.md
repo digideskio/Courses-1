@@ -35,7 +35,7 @@ Other:
 * XSeries: Big data, BerkeleyX, edX
 * Fundamentals of Computing Specialization, Rice University, Coursera
 
-###**2016** (6)
+###**2016** (7)
 
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
