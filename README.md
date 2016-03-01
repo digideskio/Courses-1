@@ -35,7 +35,7 @@ Other:
 * XSeries: Big data, BerkeleyX, edX
 * Fundamentals of Computing Specialization, Rice University, Coursera
 
-###**2016** (7)
+###**2016** (8)
 
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
@@ -44,3 +44,4 @@ Other:
 5. Introduction to R Programming, MicrosoftX, edX
 6. Front-end Certificate, FreeCodeCamp
 7. Fun with Prime Numbers, KyotoUx, edX
+8. Algorithmic Toolbox, UC San Diego & Higher School of Economics, Coursera
