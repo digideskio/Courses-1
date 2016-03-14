@@ -2,7 +2,7 @@
 ##Course and MOOC certificates
 
 ######Mirza Ibrahimovic
-######Last updated: 14th Jan 2016
+######Last updated: 1st March 2016
 
 ###**2015** (24)
 
@@ -35,7 +35,7 @@ Other:
 * XSeries: Big data, BerkeleyX, edX
 * Fundamentals of Computing Specialization, Rice University, Coursera
 
-###**2016** (8)
+###**2016** (9)
 
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
@@ -45,3 +45,4 @@ Other:
 6. Front-end Certificate, FreeCodeCamp
 7. Fun with Prime Numbers, KyotoUx, edX
 8. Algorithmic Toolbox, UC San Diego & Higher School of Economics, Coursera
+9. A Crash Course in Data Science, John Hopkins University, Coursera
