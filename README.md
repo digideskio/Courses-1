@@ -46,3 +46,4 @@ Other:
 7. Fun with Prime Numbers, KyotoUx, edX
 8. Algorithmic Toolbox, UC San Diego & Higher School of Economics, Coursera
 9. A Crash Course in Data Science, John Hopkins University, Coursera
+10. Introduction to Computer Science and Programming Using Python (6.00.1x), MITx, edX (Completed this course in 2015, acted as Community Teaching Assistant in January 2016 iteration)
