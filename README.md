@@ -35,7 +35,7 @@ Other:
 * XSeries: Big data, BerkeleyX, edX
 * Fundamentals of Computing Specialization, Rice University, Coursera
 
-###**2016** (11)
+###**2016** (14)
 
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
@@ -48,3 +48,6 @@ Other:
 9. A Crash Course in Data Science, John Hopkins University, Coursera
 10. Introduction to Computer Science and Programming Using Python (6.00.1x), MITx, edX (Completed this course in 2015, acted as Community Teaching Assistant this time)
 11. Six Sigma White Belt
+12. Model Thinking, University of Michigan, Coursera
+13. Coursera Mentor Training, Coursera
+14. Object-Oriented Programming with Java I, University of Helsinki, mooc.fi
