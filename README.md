@@ -51,3 +51,4 @@ Other:
 12. Model Thinking, University of Michigan, Coursera
 13. Coursera Mentor Training, Coursera
 14. Object-Oriented Programming with Java I, University of Helsinki, mooc.fi
+15. Object-Oriented Programming with Java II, University of Helsinki, mooc.fi
