@@ -52,3 +52,4 @@ Other:
 13. Coursera Mentor Training, Coursera
 14. Object-Oriented Programming with Java I, University of Helsinki, mooc.fi
 15. Object-Oriented Programming with Java II, University of Helsinki, mooc.fi
+16. Objected Oriented Programming in Java, University of Calofornia, San Diego, Coursera
