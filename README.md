@@ -35,7 +35,7 @@ Other:
 * XSeries: Big data, BerkeleyX, edX
 * Fundamentals of Computing Specialization, Rice University, Coursera
 
-###**2016** (14)
+###**2016** (15)
 
 1. Responsive Web Design, University of London, Coursera
 2. Pre-University Calculus, DelftX, edX
@@ -51,3 +51,5 @@ Other:
 12. Model Thinking, University of Michigan, Coursera
 13. Coursera Mentor Training, Coursera
 14. Object-Oriented Programming with Java I, University of Helsinki, mooc.fi
+15. Object-Oriented Programming with Java II, University of Helsinki, mooc.fi
+16. Objected Oriented Programming in Java, University of Calofornia, San Diego, Coursera
