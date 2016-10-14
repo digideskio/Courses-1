@@ -53,3 +53,4 @@ Other:
 14. Object-Oriented Programming with Java I, University of Helsinki, mooc.fi
 15. Object-Oriented Programming with Java II, University of Helsinki, mooc.fi
 16. Objected Oriented Programming in Java, University of California, San Diego, Coursera
+17. Optimization Methods in Business Analytics (15.053x), MITx, edX
